@@ -41,6 +41,20 @@ a {
 }
 
 
+main div{
+
+    position: relative;
+
+}
+
+main div h3{
+
+    position: absolute;
+    bottom: 10%;
+    right: 15%;
+    background-color: #ffffff;
+}
+
 .Galaxy{
 
 
@@ -63,7 +77,7 @@ a {
   
 }
 
-.Milky-Way{
+.Work-Photos{
 
     width: 20%;
     height: 15%;
@@ -75,12 +89,21 @@ a {
 }
 
 
+h3 {
+
+
+
+
+
+}
+
+
 main{
    
  
     width: 100%;
  
-    padding: 20px;
+  
 
   
 }
