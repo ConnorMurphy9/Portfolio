@@ -41,13 +41,21 @@ a {
 }
 
 
-main div{
+main {
 
+
+    width: 85%;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+#Cover{
+    width: 100%;
     position: relative;
 
 }
 
-main div h3{
+#Cover h3{
 
     position: absolute;
     bottom: 10%;
@@ -62,7 +70,7 @@ main div h3{
     object-fit: cover;
     background-position: center;
 
-   height: 300px;
+   height: 200px;
 
 
 }
@@ -89,24 +97,9 @@ main div h3{
 }
 
 
-h3 {
 
 
 
-
-
-}
-
-
-main{
-   
- 
-    width: 100%;
- 
-  
-
-  
-}
 
 
 main p{
